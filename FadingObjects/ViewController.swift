@@ -101,7 +101,7 @@ class ViewController: UIViewController {
         } else {
             label4.text = "Objects are disabled"
         }
-    } //this button check to see is previous items are enabled or disabled and tells me if they are or not.
+    } //this button checks to see if previous items are enabled or disabled and tells me if they are or not.
     
 }
 
